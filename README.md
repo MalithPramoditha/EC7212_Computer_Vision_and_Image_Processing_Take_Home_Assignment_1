@@ -1,0 +1,2 @@
+# EC7212_Computer_Vision_and_Image_Processing_Take_Home_Assignment_1
+This project demonstrates four fundamental image processing tasks (intensity quantization, spatial averaging, image rotation, and blockwise averaging) using Python and OpenCV. Classic test images such as "Lena" are used to visualize and explain each operation, making it easy to understand the effects of these basic techniques in computer vision.
